@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="551f27ea-181d-415b-8e3d-7934784ec037" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/FileIO/ReadingFile.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FileIO/WriteFile.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FileIO/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Sagar.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Sagar.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/io/__init__.py" afterPath="$PROJECT_DIR$/FileIO/OSModule.py" />
+      <change beforePath="$PROJECT_DIR$/Basic/Print.py" afterPath="$PROJECT_DIR$/Basic/Print.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,61 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Print.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basic/Print.py">
+      <file leaf-file-name="OSModule.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileIO/OSModule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Comment.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basic/Comment.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Operators.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basic/Operators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Variables.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basic/Variables.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Input.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basic/Input.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="58" lean-forward="false" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReadingFile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FileIO/ReadingFile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="40" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -88,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OSModule.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FileIO/OSModule.py">
+      <file leaf-file-name="Print.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Basic/Print.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -113,15 +59,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Basic/Print.py" />
         <option value="$PROJECT_DIR$/Basic/Comment.py" />
         <option value="$PROJECT_DIR$/Basic/Operators.py" />
         <option value="$PROJECT_DIR$/Basic/Variables.py" />
         <option value="$PROJECT_DIR$/Basic/Input.py" />
         <option value="$PROJECT_DIR$/io/ReadingFile.py" />
         <option value="$PROJECT_DIR$/FileIO/ReadingFile.py" />
-        <option value="$PROJECT_DIR$/FileIO/WriteFile.py" />
         <option value="$PROJECT_DIR$/FileIO/OSModule.py" />
+        <option value="$PROJECT_DIR$/FileIO/WriteFile.py" />
+        <option value="$PROJECT_DIR$/Basic/Print.py" />
       </list>
     </option>
   </component>
@@ -351,14 +297,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/Print.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basic/Operators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -399,14 +337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FileIO/WriteFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FileIO/ReadingFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -417,8 +347,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FileIO/OSModule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileIO/WriteFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/Print.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
           <folding />
         </state>
       </provider>
