@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="551f27ea-181d-415b-8e3d-7934784ec037" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/io/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FileIO/ReadingFile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FileIO/WriteFile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FileIO/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Sagar.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Sagar.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/io/__init__.py" afterPath="$PROJECT_DIR$/FileIO/OSModule.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,11 +58,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Input.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Input.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Basic/Input.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="58" lean-forward="false" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadingFile.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileIO/ReadingFile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WriteFile.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileIO/WriteFile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OSModule.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FileIO/OSModule.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -84,6 +118,10 @@
         <option value="$PROJECT_DIR$/Basic/Operators.py" />
         <option value="$PROJECT_DIR$/Basic/Variables.py" />
         <option value="$PROJECT_DIR$/Basic/Input.py" />
+        <option value="$PROJECT_DIR$/io/ReadingFile.py" />
+        <option value="$PROJECT_DIR$/FileIO/ReadingFile.py" />
+        <option value="$PROJECT_DIR$/FileIO/WriteFile.py" />
+        <option value="$PROJECT_DIR$/FileIO/OSModule.py" />
       </list>
     </option>
   </component>
@@ -93,7 +131,9 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -117,6 +157,16 @@
               <item name="Python_Concepts" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Concepts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python_Concepts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Concepts" type="462c0819:PsiDirectoryNode" />
+              <item name="Basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Concepts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Concepts" type="462c0819:PsiDirectoryNode" />
+              <item name="FileIO" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -136,25 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Input">
-    <configuration name="Comment" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_Concepts" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/Comment.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.OSModule">
     <configuration name="Input" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,74 +205,92 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="OSModule" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FileIO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Concepts" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/Operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileIO/OSModule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Print" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ReadingFile (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FileIO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Concepts" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/Print.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileIO/ReadingFile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ReadingFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Concepts" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/Variables.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/io/ReadingFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="WriteFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FileIO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_Concepts" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileIO/WriteFile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Print" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Comment" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Operators" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Variables" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Input" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Input" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ReadingFile" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ReadingFile (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.WriteFile" />
+      <item index="4" class="java.lang.String" itemvalue="Python.OSModule" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Input" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Variables" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Operators" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Comment" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Print" />
+        <item index="0" class="java.lang.String" itemvalue="Python.OSModule" />
+        <item index="1" class="java.lang.String" itemvalue="Python.WriteFile" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ReadingFile (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ReadingFile" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Input" />
       </list>
     </recent_temporary>
   </component>
@@ -262,8 +312,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -308,14 +359,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic/Comment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basic/Operators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -336,6 +379,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="58" lean-forward="false" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/Comment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileIO/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileIO/WriteFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileIO/ReadingFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileIO/OSModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
